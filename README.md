@@ -23,7 +23,6 @@ Este repositório serve como um índice centralizado para os projetos e estudos 
 | **Pokédex com JavaScript** | JavaScript, Fetch API, HTML, CSS | Pokédex dinâmica consumindo API pública de Pokémon. | <a href="https://github.com/carolinadefatima/js-developer-pokedex.git">🔗</a> |
 | **Jogo de Cartas Yu-Gi-Oh!** | JavaScript, CSS, HTML | Card game simples com manipulação de DOM. | <a href="https://github.com/carolinadefatima/js-yugioh-assets.git">🔗</a> |
 | **Simulador de Piano** | JavaScript, CSS, HTML | Teclas com sons que simulam um piano real. | <a href="https://github.com/carolinadefatima/js-music-keyboard-virtual.git">🔗</a> |
-| **Landing Page Mundo Invertido** | HTML, CSS | Página temática inspirada em Stranger Things. | <a href="https://github.com/carolinadefatima/mundo-invertido.git">🔗</a> |
 | **Site Completo com HTML, CSS e JavaScript** | HTML, CSS, JavaScript | Site multipáginas com interações de front-end. | <a href="https://github.com/carolinadefatima/spiderman-multiverse.git">🔗</a> |
 
 ---
