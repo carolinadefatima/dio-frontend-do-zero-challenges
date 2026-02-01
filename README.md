@@ -47,14 +47,8 @@ Carga horária aproximada: **70h**
 
 ---
 
-<h2 align="center">Vamos nos conectar?</h2>
+<a href="https://www.linkedin.com/in/anacarolinadefatima/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anacarolinadefatima/" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="45px">
-  </a>
-  <a href="mailto:santosanacarolina12@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/344/gmail-new.png" width="45px">
-  </a>
-</p>
 
